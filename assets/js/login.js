@@ -11,4 +11,8 @@ $(function() {
         $('.login-box').show()
         $('.reg-box').hide()
     })
+
+
+    // 从layui中获取form对像
+    var form = layui.form
 })
